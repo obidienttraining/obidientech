@@ -1,5 +1,5 @@
 # obidientech
 
-#how the application works 
+# how the application works 
 
-this is just for fun, i will be adding  new features to the app soon 
+this is just for fun, I will be adding  new features to the app soon 
